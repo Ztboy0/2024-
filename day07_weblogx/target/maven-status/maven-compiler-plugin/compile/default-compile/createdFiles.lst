@@ -1,0 +1,11 @@
+cn\itcast\weblog\controller\IndexController.class
+cn\itcast\weblog\pojo\TemperaturePojo.class
+cn\itcast\weblog\pojo\MinTemperaturePojo.class
+cn\itcast\weblog\service\MinTemperatureServiceImpl.class
+cn\itcast\weblog\mapper\TemperatureMapper.class
+cn\itcast\weblog\service\MinTemperatureService.class
+cn\itcast\weblog\mapper\MinTempMapper.class
+cn\itcast\weblog\service\TemperatureService.class
+cn\itcast\weblog\service\TemperatureServiceImpl.class
+cn\itcast\weblog\pojo\MinTempPojo.class
+cn\itcast\weblog\pojo\TemperatureReturnPojo.class
